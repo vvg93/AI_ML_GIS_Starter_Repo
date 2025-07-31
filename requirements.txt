@@ -1,0 +1,13 @@
+```txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+geopandas
+rasterio
+shapely
+tensorflow
+torch
+streamlit
+dash
